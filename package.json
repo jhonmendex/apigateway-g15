@@ -1,0 +1,16 @@
+{
+  "name": "api_gateway",
+  "version": "1.0.0",
+  "description": "api gateway with graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "ls -l",
+    "start": "nodemon --experimental_modules src/index.mjs "
+  },
+  "keywords": [],
+  "author": "jhon mendez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
